@@ -8,6 +8,7 @@ table {
 
 thead {
     background-color: rgb(0, 0, 255);
+   
 }
 
 .color-blu {
@@ -18,7 +19,7 @@ thead {
     text-align: center;
 }
 
-h3 {
+.color-gray{
     color: gray;
 }
 
@@ -36,7 +37,7 @@ h3 {
 .grandezza-testo {
     text-size-adjust: ;
 }
-h2 {
+.color-white{
     color: white;
 }
 td {
