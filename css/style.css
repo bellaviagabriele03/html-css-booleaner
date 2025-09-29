@@ -46,10 +46,14 @@ td {
 .misure-logo {
     text-align: left;
     width: 200px;
+    margin: -30px -35px;
 }
 .sfondo-logo {
     background-color: aqua;
-    background-image: url(../img/pattern.png);
-    text-align: center;
-    
+    background-image: url(../img/pattern.png);  
+    padding: 30px;
+    margin: -8px -8px;
+}
+.misure-immagini-iniziali {
+    margin: 0px;
 }
