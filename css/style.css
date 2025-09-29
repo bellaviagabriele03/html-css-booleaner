@@ -1,0 +1,15 @@
+span {
+    background-color: yellow;
+}
+table {
+    width: 100%;
+}
+thead {
+    background-color: rgb(0, 0, 255);
+}
+.color-blu{
+    background-color: aqua;
+}
+.testo-centrale{
+    text-align: center;
+}
