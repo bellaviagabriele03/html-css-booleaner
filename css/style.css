@@ -1,15 +1,41 @@
 span {
     background-color: yellow;
 }
+
 table {
     width: 100%;
 }
+
 thead {
     background-color: rgb(0, 0, 255);
 }
-.color-blu{
+
+.color-blu {
     background-color: aqua;
 }
-.testo-centrale{
+
+.testo-centrale {
     text-align: center;
+}
+
+h3 {
+    color: gray;
+}
+
+.image-finale-uno {
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+
+.image-finale-due {
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+}
+.grandezza-testo {
+    text-size-adjust: ;
+}
+h2 {
+    color: white;
 }
