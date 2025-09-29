@@ -43,3 +43,13 @@ thead {
 td {
     width: 300px;
 }
+.misure-logo {
+    text-align: left;
+    width: 200px;
+}
+.sfondo-logo {
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    text-align: center;
+    
+}
